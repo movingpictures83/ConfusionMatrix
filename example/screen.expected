@@ -1,0 +1,52 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: ConfusionMatrix
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Class1 Class2
+    Class1    183    141
+    Class2     13    663
+                                          
+               Accuracy : 0.846           
+                 95% CI : (0.8221, 0.8678)
+    No Information Rate : 0.804           
+    P-Value [Acc > NIR] : 0.0003424       
+                                          
+                  Kappa : 0.6081          
+                                          
+ Mcnemar's Test P-Value : < 2.2e-16       
+                                          
+            Sensitivity : 0.9337          
+            Specificity : 0.8246          
+         Pos Pred Value : 0.5648          
+         Neg Pred Value : 0.9808          
+             Prevalence : 0.1960          
+         Detection Rate : 0.1830          
+   Detection Prevalence : 0.3240          
+      Balanced Accuracy : 0.8792          
+                                          
+       'Positive' Class : Class1          
+                                          

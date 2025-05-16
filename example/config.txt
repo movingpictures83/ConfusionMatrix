@@ -1,0 +1,2 @@
+Prefix plugins/ConfusionMatrix/example/
+Plugin ConfusionMatrix inputfile test_set.rds outputfile none
